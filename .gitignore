@@ -1,0 +1,7 @@
+# Binaries
+*.exe
+*.out
+*.test
+
+# Environment files
+.env
